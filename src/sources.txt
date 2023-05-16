@@ -1,0 +1,72 @@
+https://21-school-by-students.notion.site/Qt-Creator-VPN-c055d74b612743679518f621e626b8c7
+
+Makefile:
+    https://www.opennet.ru/docs/RUS/make_compile/make-8.html
+
+    https://ru.stackoverflow.com/questions/517179/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D1%8B%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D1%8B-%D0%B2-%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B9-%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3
+    https://ru.stackoverflow.com/questions/517179
+
+    https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html
+    https://riptutorial.com/makefile/example/21469/automatic-variables
+    https://stackoverflow.com/questions/3220277/what-do-the-makefile-symbols-and-mean
+
+    http://linux.yaroslavl.ru/docs/prog/gnu_make_3-79_russian_manual.html - всякие полезности?
+
+
+Cmake:
+    https://cmake.org/cmake/help/latest/guide/tutorial/index.html
+    https://habr.com/ru/post/155467/
+    https://neerc.ifmo.ru/wiki/index.php?title=CMake_Tutorial
+    https://ps-group.github.io/cxx/cmake_cheatsheet
+    https://eax.me/cmake/
+
+    file:///Users/swindell/Downloads/9bcb9441-9ca0-436e-9179-bf6252adae20.pdf
+
+
+
+Qt:
+    http://doc.crossplatform.ru/qt/4.8.x/html-qt/
+    http://doc.crossplatform.ru/qt/4.5.0/index.html
+    http://doc.crossplatform.ru/qt/4.5.0/widgets-tutorial.html
+    bhttps://folkprog.net/ispolzovanie-qt-layout-dlya-optimizatsii-interfeysa-programmi/
+
+    http://qtdocs.narod.ru/4.1.0/doc/html/qlabel.html
+    http://it.kgsu.ru/Python_Qt/pyqt5_109.html
+
+Стили: 
+    http://doc.crossplatform.ru/qt/4.5.0/stylesheet-reference.html
+    https://www.cyberforum.ru/qt/thread1341880.html
+    https://ru.stackoverflow.com/questions/1394294
+    https://www.cyberforum.ru/qt/thread2972540.html
+
+
+    QPushButton {
+        border:  2px solid rgb(182, 209, 242);
+        background-color:  rgb(193, 222, 255);
+        color:  black;
+    }
+
+    QPushButton:pressed {
+        border:  2px solid rgb(213, 224, 242);
+        background-color:  rgb(224, 237, 255);
+    }
+
+Геометрия окна:
+    http://www.prog.org.ru/topic_18533_0.html
+    https://www.cyberforum.ru/python-graphics/thread2421175.html
+
+Сигналы и слоты:
+    http://doc.crossplatform.ru/qt/4.7.x/signalsandslots.html   
+
+График:
+    https://evileg.com/ru/post/95/
+    https://www.qcustomplot.com/documentation/classQCustomPlot.html#a9a79cd0158a4c7f30cbc702f0fd800e4
+
+Doxygen:
+    brew install doxygen - установка
+    https://habr.com/ru/post/252101/
+    https://eax.me/doxygen/
+
+
+
+
